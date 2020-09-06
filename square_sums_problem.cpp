@@ -2,7 +2,7 @@
 #include <cmath>
 #include <numeric>
 
-using std::vector;
+using namespace std;
 
 const long double eps = 10e-16;
 
